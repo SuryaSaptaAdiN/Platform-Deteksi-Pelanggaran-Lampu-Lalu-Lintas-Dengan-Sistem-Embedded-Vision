@@ -4,7 +4,6 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-green.svg)](https://opencv.org/)
 [![YOLOv11](https://img.shields.io/badge/YOLO-v11-yellow.svg)](https://github.com/ultralytics/ultralytics)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange.svg)](https://www.mysql.com/)
-[![License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
 
 ## 📋 Deskripsi
 
